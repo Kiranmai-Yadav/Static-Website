@@ -33,7 +33,7 @@ In today's fast-paced world, many individuals face challenges in maintaining a h
 - **Gardening**: A static website enabling customers to explore and order a wide variety of high-quality plants at affordable prices.
 
 ### 2. Deploying the Website on GitHub
-- The frontend of **Gardening** was uploaded to a public GitHub repository: [Frontend-Restaurant](https://github.com/Kiranmai-Yadav/Static-Website.git).
+- The frontend of **Gardening** was uploaded to a public GitHub repository: [Frontend-Gardening](https://github.com/Kiranmai-Yadav/Static-Website.git).
 
 ### 3. Azure Deployment Using ARM Templates
 - **Resource Group**: Created using Azure CLI to hold all the resources.
@@ -95,40 +95,39 @@ In today's fast-paced world, many individuals face challenges in maintaining a h
 -**Project Video Link**: [Project Video]
 
 -**Screenshots**:
-
-         **Created Resource Group Screenshot**
-         -![rg created in arm](https://github.com/user-attachments/assets/95bac947-0d94-4e73-9a43-57aa025e1ae7)
-         -![rg-created-using arm](https://github.com/user-attachments/assets/c539fb34-b131-461e-9027-a90a6a2700a7)
+ **Created Resource Group Screenshot**
+ -![rg created in arm](https://github.com/user-attachments/assets/95bac947-0d94-4e73-9a43-57aa025e1ae7)
+ -![rg-created-using arm](https://github.com/user-attachments/assets/c539fb34-b131-461e-9027-a90a6a2700a7)
       
-         **Resource Group Deployment Command Output**
-         -![rg-deployment](https://github.com/user-attachments/assets/dfd0ba72-afbc-4e52-86f5-650ace6cc79e)
+  **Resource Group Deployment Command Output**
+  -![rg-deployment](https://github.com/user-attachments/assets/dfd0ba72-afbc-4e52-86f5-650ace6cc79e)
 
-         **VNet Subnets NSG ARM Template Output**
-         -![nsg-vnet-sunets-created in arm](https://github.com/user-attachments/assets/6cab042b-6b5e-4744-913c-fcc9bd549d88)
+  **VNet Subnets NSG ARM Template Output**
+  -![nsg-vnet-sunets-created in arm](https://github.com/user-attachments/assets/6cab042b-6b5e-4744-913c-fcc9bd549d88)
        
-         **Created VNet and Subnets Screenshot**
-         -![vnet subnets-created](https://github.com/user-attachments/assets/0985b9b1-952e-458b-9317-9e5b2012ad55)
+  **Created VNet and Subnets Screenshot**
+  -![vnet subnets-created](https://github.com/user-attachments/assets/0985b9b1-952e-458b-9317-9e5b2012ad55)
 
-         **Deployed VM 1 Screenshot**
-         -![vm1 created](https://github.com/user-attachments/assets/c12a7071-3e74-4b7f-b355-250fa9c82a45)
+  **Deployed VM 1 Screenshot**
+  -![vm1 created](https://github.com/user-attachments/assets/c12a7071-3e74-4b7f-b355-250fa9c82a45)
 
-         **Deployed VM 2 Screenshot**
-         -![vm2 created](https://github.com/user-attachments/assets/4d41af02-4e06-47f3-9121-cfa8fe54aa5f)
+  **Deployed VM 2 Screenshot**
+  ![vm2 created](https://github.com/user-attachments/assets/4d41af02-4e06-47f3-9121-cfa8fe54aa5f)
  
-         **Deployed LoadBalancer Screenshot**
-         -![lb created](https://github.com/user-attachments/assets/d4d9beb5-f5eb-412e-8e6f-3464b9505a7c)
+  **Deployed LoadBalancer Screenshot**
+  -![lb created](https://github.com/user-attachments/assets/d4d9beb5-f5eb-412e-8e6f-3464b9505a7c)
 
-         **Website Home Page Screenshot**
-         -![gogreen-home](https://github.com/user-attachments/assets/227958d6-a0e1-4433-a960-f2ce5dffdc16)
+  **Website Home Page Screenshot**
+  -![gogreen-home](https://github.com/user-attachments/assets/227958d6-a0e1-4433-a960-f2ce5dffdc16)
 
-         **Category Page after complete Deployment**
-         -![gogreen-category](https://github.com/user-attachments/assets/0958f1a8-0798-4084-9d46-bd45dc4a6ab5)
+  **Category Page after complete Deployment**
+  -![gogreen-category](https://github.com/user-attachments/assets/0958f1a8-0798-4084-9d46-bd45dc4a6ab5)
 
-         **About Us Page after complete Deployment**
-         -![gogreen-about](https://github.com/user-attachments/assets/bb85dd5e-24ea-46ee-a0cb-77d2a049a7a6)
+  **About Us Page after complete Deployment**
+  -![gogreen-about](https://github.com/user-attachments/assets/bb85dd5e-24ea-46ee-a0cb-77d2a049a7a6)
 
-         **Contact Us Page after complete Deployment**
-         -![gogreen-contact](https://github.com/user-attachments/assets/21c6fb7d-3c16-4110-be32-929ee60b6838)
+  **Contact Us Page after complete Deployment**
+  -![gogreen-contact](https://github.com/user-attachments/assets/21c6fb7d-3c16-4110-be32-929ee60b6838)
 
 ## Conclusion
 
