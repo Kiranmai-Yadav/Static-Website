@@ -21,7 +21,7 @@ In today's fast-paced world, many individuals face challenges in maintaining a h
 
 1. **Azure CLI**: Used to create the resource group and Virtual Network.
 2. **ARM Templates**: Automated the creation of VNet, subnets, and NSG.
-3. **Azure Virtual Machines (VMs)**: Hosted the Restaurant website.
+3. **Azure Virtual Machines (VMs)**: Hosted the Gardening website.
 4. **Azure Load Balancer**: Distributed the traffic between two VMs to ensure high availability.
 5. **Nginx**: Used as a web server on both VMs to serve the static content.
 6. **Git**: Cloned the website from GitHub onto the VMs using a custom script.
@@ -50,7 +50,7 @@ In today's fast-paced world, many individuals face challenges in maintaining a h
   #!/bin/bash
   sudo apt update
   sudo apt install nginx git -y
-  cd /tmp && git clone https://github.com/medisettyvaishnavi/Restaurant.git
+  cd /tmp && git clone https://github.com/Kiranmai-Yadav/Static-Website.git
   sudo rm -rf /var/www/html/index.nginx-debian.html
   sudo cp -r /tmp/mysitee/* /var/www/html/
   ```
@@ -67,10 +67,10 @@ In today's fast-paced world, many individuals face challenges in maintaining a h
 ### 6. Testing and Accessing the Website
 - After the load balancer deployment, the website became accessible via the frontend IP of the load balancer. Customers can access the website **Gardening** and buy any kind of plants, gardening tools and pots from it.
   
-## How to Use Restaurant
+## How to Use Gardening Website
 
 1. Exlpore our website.
-2. Select the food item which you want from the menu.
+2. Select the plant or item which you want from the category.
 3. Confirm your order by doing payment.
 4. If you are satisfied with our service can follow us.
 
