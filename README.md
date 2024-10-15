@@ -1,21 +1,23 @@
-# Static-Website
-##Deploying Static Website using Load Balancer by ARM Template
+# Deploying Static Website using Load Balancer by ARM Template
+
+## Project Overview
 
 **Develop a dynamic, user-friendly Gardening website to enhance customer engagement and streamline operations. The site will feature a visually appealing homepage, detailed menu with high-quality images, and online ordering system. It will also include an "About Us" page, contact information, and links to social media. The website will be responsive, ensuring optimal performance on both desktop and mobile devices. The goal is to effectively represent the, provide essential information, and improve customer experience.
 
-
-##Problem Statement
+## Problem Statement
 
 In today's fast-paced world, many individuals face challenges in maintaining a healthy and sustainable garden. Additionally, modern urban lifestyles leave little time for detailed garden management, resulting in missed opportunities to cultivate personal green spaces that can enhance well-being and contribute to environmental sustainability. There is a need for an accessible platform that provides practical, reliable, and user-friendly gardening plants and tools required for gardening.
 
-##Project Goals
+
+
+## Project Goals
 
 -Deploy the **Gardening** website on Azure using ARM templates.
 -Set up a **Virtual Network (VNet)** with two Subnets and a **Network Security Group (NSG)**.
 -Use a **Load Balancer** to distribute traffic between two VMs located in different availability zones.
 -Host the static website on these VMs and make it accessible via the load balancer's frontend IP.
 
-##Technologies and Azure Services Used
+## Technologies and Azure Services Used
 
 1. **Azure CLI**: Used to create the resource group and Virtual Network.
 2. **ARM Templates**: Automated the creation of VNet, subnets, and NSG.
@@ -86,7 +88,7 @@ In today's fast-paced world, many individuals face challenges in maintaining a h
 
  
 
-##Live Website and Resources
+## Live Website and Resources
 
 -**Website Link**: [Gardening](https://github.com/Kiranmai-Yadav/Static-Website.git)
 
@@ -128,12 +130,12 @@ In today's fast-paced world, many individuals face challenges in maintaining a h
          **Contact Us Page after complete Deployment**
          -![gogreen-contact](https://github.com/user-attachments/assets/21c6fb7d-3c16-4110-be32-929ee60b6838)
 
-##Conclusion
+## Conclusion
 
 This sample business plan provides a comprehensive roadmap for launching and operating a successful Gardening. By following the outlined steps and utilizing the provided resources, entrepreneurs can create a strong foundation for their business and achieve long-term success.
 
 
-##Author
+## Author
 
 **P Kiranmai Yadav**
 **Prathibha Aakula**
